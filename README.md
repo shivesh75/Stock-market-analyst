@@ -1,6 +1,4 @@
-Here’s a crisp **README draft** you can drop straight into your repo:
 
----
 
 # 📈 Stock Price Movement Predictor + AI Analyst
 
@@ -55,7 +53,4 @@ This project combines **Machine Learning** and **Generative AI** to predict stoc
   * **Prediction**: 65% chance stock goes up tomorrow
   * **AI Analyst Report**: *“Apple’s short-term trend shows momentum supported by stable volatility. The 5-day moving average is above the 10-day average, suggesting positive sentiment. However, trading volume has softened, which could limit upside potential.”*
 
----
-
-👉 Would you like me to also write a **short “Why this project is valuable” section** so recruiters instantly see the takeaway? That could make your README pop even more.
 
