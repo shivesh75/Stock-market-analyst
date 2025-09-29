@@ -8,7 +8,9 @@ from sklearn.metrics import accuracy_score
 import joblib
 from google import genai
 import os
+from dotenv import load_dotenv
 
+load_dotenv()
 # ============= CONFIG ====================
 # Set up Gemini client (make sure GEMINI_API_KEY is exported in your env)
 client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
